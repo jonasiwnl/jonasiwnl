@@ -1,6 +1,6 @@
 # Hi, I'm Jonas.
 
-I love building cool stuff and learning about the system design. I'm a computer science major at the University of Michigan. Visit my [website](https://jonasiwnl.github.io) for more!
+I love building cool stuff and learning about the architecture of systems. I'm a computer science major at the University of Michigan. Visit my [website](https://jonasiwnl.github.io) for more!
 
 Want to get in touch? Email me at [jonasg@umich.edu](mailto:jonasg@umich.edu).
 
