@@ -1,3 +1,5 @@
+<img src="https://i.redd.it/yfqlq8g8nyt71.jpg" />
+
 # Hi, I'm Jonas.
 
 I'm a computer science major at the University of Michigan with an interest in infrastructure and distributed systems. Visit my [website](https://jonasiwnl.github.io) for more!
