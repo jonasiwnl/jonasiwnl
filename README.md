@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/yfqlq8g8nyt71.jpg" />
+<img src="https://i.redd.it/yfqlq8g8nyt71.jpg" width="300" />
 
 # Hi, I'm Jonas.
 
