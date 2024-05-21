@@ -1,3 +1,5 @@
+<img height="275" src="https://github.com/jonasiwnl/jonasiwnl/blob/main/assets/foolmoonnight.jpg?raw=true" />
+
 <h1><samp>Hi, I'm Jonas 👾</samp></h1>
 
 <samp>I'm a computer science major at the University of Michigan with an interest in infrastructure and distributed systems. Visit my [website](https://jonasiwnl.github.io) for more!</samp>
