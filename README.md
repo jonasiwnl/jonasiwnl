@@ -2,7 +2,7 @@
 
 <h1><samp>Hi, I'm Jonas 👾</samp></h1>
 
-<samp>I'm a computer science major at the University of Michigan with an interest in infrastructure and distributed systems. Visit my [website](https://jonasiwnl.github.io) for more!</samp>
+<samp>I'm a computer science major at the University of Michigan with an interest in systems. Visit my [website](https://jonasiwnl.github.io) for more!</samp>
 
 <samp>Want to get in touch? Email me at [jonasg\[at\]umich\[dot\]edu](mailto:jonasg@umich.edu).</samp>
 
