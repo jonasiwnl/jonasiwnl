@@ -1,4 +1,4 @@
-<img height="275" src="https://github.com/jonasiwnl/jonasiwnl/blob/main/assets/foolmoonnight.jpg?raw=true" />
+<img height="275" src="https://github.com/jonasiwnl/jonasiwnl/blob/main/assets/afoolmoonnight.jpg?raw=true" />
 
 <h1><samp>Hi, I'm Jonas 👾</samp></h1>
 
