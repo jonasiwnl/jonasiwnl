@@ -1,4 +1,4 @@
-<samp>[website](https://jonasiwnl.github.io) | [email](mailto:jonasg@umich.edu) | [linkedin](https://www.linkedin.com/in/jonasgroening/)</samp>
+<samp>[website](https://jonasiw.nl) | [email](mailto:jonasg@umich.edu) | [linkedin](https://www.linkedin.com/in/jonasgroening/)</samp>
 
 <!--
 <img height="275" src="https://github.com/jonasiwnl/jonasiwnl/blob/main/assets/afoolmoonnight.jpg?raw=true" />
