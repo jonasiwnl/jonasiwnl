@@ -1,5 +1,3 @@
-<samp>Human</samp>
-
 <samp>[website](https://jonasiw.nl) | [email](mailto:jonasg@umich.edu) | [linkedin](https://www.linkedin.com/in/jonasgroening/)</samp>
 
 
